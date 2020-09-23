@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/protons_react_cards/static/css/main.71ad67df.chunk.css",
+    "main.js": "/protons_react_cards/static/js/main.36f30ef0.chunk.js",
+    "main.js.map": "/protons_react_cards/static/js/main.36f30ef0.chunk.js.map",
+    "runtime-main.js": "/protons_react_cards/static/js/runtime-main.6c2e604d.js",
+    "runtime-main.js.map": "/protons_react_cards/static/js/runtime-main.6c2e604d.js.map",
+    "static/js/2.cfac9d7a.chunk.js": "/protons_react_cards/static/js/2.cfac9d7a.chunk.js",
+    "static/js/2.cfac9d7a.chunk.js.map": "/protons_react_cards/static/js/2.cfac9d7a.chunk.js.map",
+    "index.html": "/protons_react_cards/index.html",
+    "precache-manifest.fb08a9d808e1f09f1a9dcb6fb5ee0852.js": "/protons_react_cards/precache-manifest.fb08a9d808e1f09f1a9dcb6fb5ee0852.js",
+    "service-worker.js": "/protons_react_cards/service-worker.js",
+    "static/css/main.71ad67df.chunk.css.map": "/protons_react_cards/static/css/main.71ad67df.chunk.css.map",
+    "static/js/2.cfac9d7a.chunk.js.LICENSE.txt": "/protons_react_cards/static/js/2.cfac9d7a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c2e604d.js",
+    "static/js/2.cfac9d7a.chunk.js",
+    "static/css/main.71ad67df.chunk.css",
+    "static/js/main.36f30ef0.chunk.js"
+  ]
+}
